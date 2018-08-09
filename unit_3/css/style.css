@@ -1,8 +1,13 @@
-body {color: 343434;}
-h1 {color: #fff;
-text-align: center;}
-p
-ul
+body {
+text-align: center;
+background: url("images/Natalya+Krimgold.jpg");
+background-size: cover;
+color: #7b7478;
+}
+h1 {font-family: "Tiempos Text";}
+p {font-family: Apercu;}
+ul {font-family: "Tiempos Text";
+color: #2e3649;}
+a {color: #7b7478;}
 li
 img
-#slogan {text-transform: italics;}
