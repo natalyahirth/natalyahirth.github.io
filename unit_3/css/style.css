@@ -1,14 +1,51 @@
+<link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro:600" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Karla|Source+Serif+Pro:600" rel="stylesheet">
+
+font-family: 'Source Serif Pro', serif;
+font-family: 'Karla', sans-serif;
+
 body {
-text-align: center;
-background: url("images/NatalyaHirth.jpg");
-background-size: cover;
+	text-align: center;
 }
-h1 {font-family: "Tiempos Text";
-font-size: 40px;
-color: #7b7478;}
-p {font-family: Apercu;
-font-size: 20px;
-color: #2e3649}
+
+h1 {
+	font-family: 'Source Serif Pro', serif; "Tiempos Text";
+	font-size: 40px;
+	color: #000;
+	line-height: 1.5em;
+}
+h2 {
+	font-family: 'Source Serif Pro', serif; "Tiempos Text";
+	font-size: 30px;
+	color: #000;
+	line-height: 1.5em;
+}
+h3 {
+	font-family: 'Source Serif Pro', serif; "Tiempos Text";
+	font-size: 20px;
+	color: #000;
+	line-height: 1.5em;
+}
+h4 {
+	font-family: 'Karla', sans-serif; "Apercu";
+	font-size: 40px;
+	font-weight: lighter;
+	color: #000;
+	line-height: 2em;
+}
+h5 {
+	font-family: 'Source Serif Pro', serif; "Tiempos Text";
+	font-size: 100px;
+	color: #000;
+	line-height: 1.5em;
+}
+
+p {
+	font-family: 'Karla', sans-serif; Apercu;
+	font-size: 20px;
+	font-weight: lighter;
+	line-height: 2em;
+	color: #2e3649}
 ul {font-family: "Tiempos Text";
 color: #2e3649;
 font-size: 20px;}
