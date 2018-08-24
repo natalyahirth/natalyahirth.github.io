@@ -1,0 +1,172 @@
+<link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro:600" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Karla|Source+Serif+Pro:600" rel="stylesheet">
+
+font-family: 'Source Serif Pro', serif;
+font-family: 'Karla', sans-serif;
+
+body {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Source Serif Pro', serif; "Tiempos Text";
+	font-size: 40px;
+	color: #000;
+	line-height: 1.5em;
+	width: 600px;
+}
+h2 {
+	font-family: 'Source Serif Pro', serif; "Tiempos Text";
+	font-size: 30px;
+	color: #000;
+	line-height: 1.5em;
+	width: 600px;
+}
+h3 {
+	font-family: 'Source Serif Pro', serif; "Tiempos Text";
+	font-size: 20px;
+	color: #000;
+	line-height: 1.5em;
+	width: 600px;
+}
+h4 {
+	font-family: 'Karla', sans-serif; "Apercu";
+	font-size: 40px;
+	font-weight: lighter;
+	color: #000;
+	line-height: 2em;
+	width: 800px;
+}
+h5 {
+	font-family: 'Source Serif Pro', serif; "Tiempos Text";
+	font-size: 100px;
+	color: #000;
+	line-height: 1.5em;
+	width: 600px;
+}
+
+p {
+	font-family: 'Karla', sans-serif; Apercu;
+	font-size: 20px;
+	font-weight: lighter;
+	line-height: 2em;
+	color: #2e3649;
+	width: 600px;
+}
+
+ul {
+	font-family: "Tiempos Text";
+	color: #2e3649;
+	font-size: 20px;
+	width: 600px;
+}
+
+a {color: #7b7478;}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#photo-collage {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#features {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.one-on-one-lessons {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.essential-workplace-skills {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.easy-to-use-platform {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#pull-quote-1 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#testimonials-intro {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#pull-quote-2 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#pull-quote-3 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#survey-results {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.impact-on-soft-skills {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.enjoy-work-more {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.improvement-in-direct-reports {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#get-a-trial-form {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#newsletter-sign-up {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}

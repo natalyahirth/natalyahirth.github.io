@@ -52,3 +52,105 @@ font-size: 20px;}
 a {color: #7b7478;}
 li
 img
+
+nav {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.features {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#one-on-one-lessons {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#essential-workplace-skills {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#easy-to-use-platform {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.pull-quote-1 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.testimonials-intro {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.pull-quote-2 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.pull-quote-3 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.survey-results {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#impact-on-soft-skills {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#enjoy-work-more {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#improvement-in-direct-reports {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.get-a-trial-form {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.newsletter-sign-up {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
