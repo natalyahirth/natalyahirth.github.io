@@ -35,7 +35,7 @@ h4 {
 	font-weight: lighter;
 	color: #DCEDF8;
 	line-height: 2em;
-	font-weight: lighter;
+	font-weight: 100;
 }
 h5 {
 	font-family: 'Source Serif Pro', serif; "Tiempos Text";
@@ -47,6 +47,7 @@ h6 {
 	font-family: 'Karla'; sans-serif; "Apercu";
 	font-size: 15px;
 	letter-spacing: 2px;
+	text-transform: uppercase;
 	color: #2D459D;
 }
 
@@ -69,6 +70,15 @@ ul {
 	float: left;
 	padding: 35px;
 	padding-left: 100px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	height: 0;
+	font-size: 0;
+	content: " ";
+	display: block;
+	clear: both;
 }
 
 nav {
@@ -115,6 +125,7 @@ header {
 	letter-spacing: 2px;
 	color: #2D459D;
 	text-decoration: none;
+	text-transform: uppercase;
 	padding: 2em;
 }
 
@@ -141,11 +152,17 @@ header {
 .multiple-ctas {
 	display: inline-block;
 	padding-bottom: 50px;
+	text-transform: uppercase;
+}
+
+.wrapper {
+	width: 980px;
+	margin: auto;
 }
 
 #photo-collage {
-	padding-top: 100px;
-	padding-left: 250px;
+	margin: 100px auto;
+	/*padding-left: 250px;*/
 }
 
 #photo-collage img {
@@ -196,17 +213,26 @@ header {
 #pull-quote-1 {
 	background-color: #2D459D;
 	color: #DCEDF8;
-	padding: 20px;
-	padding-left: 300px;
-	padding-right: 300px;
-	padding-bottom: 75px;
+	/*padding-left: 300px;
+	padding-right: 300px;*/
+	margin: auto;
+	padding: 100px 350px;
+	/*padding-bottom: 75px;*/
 	text-align: center;
 	width: 800px;
 	/*display: inline-block;*/
 }
 
+#pull-quote-1 hr {
+	height: 4px;
+	color: #DCEDF8;
+	width: 100px;
+	margin: auto;
+}
+
 #pull-quote-1 h3 {
-	color: #DCEDF8;;
+	color: #DCEDF8;
+	margin-bottom: 70px;
 }
 
 #testimonials-intro {
@@ -237,6 +263,7 @@ header {
 	letter-spacing: 2px;
 	color: #2D459D;
 	text-decoration: none;
+	text-transform: uppercase;
 	padding: 2em;
 }
 
@@ -244,30 +271,46 @@ header {
 	/*background-color: #FFE2B8;
 	border: 1px black solid;*/
 	background-color: #2D459D;
-	padding: 20px;
-	padding-left: 300px;
-	padding-right: 300px;
-	padding-bottom: 75px;
+	margin: auto;
+	padding: 100px 350px;
 	text-align: center;
 	width: 800px;
 }
 
+#pull-quote-2 hr {
+	height: 4px;
+	color: #DCEDF8;
+	width: 100px;
+	margin: auto;
+}
+
 #pull-quote-2 h3 {
-	color: #DCEDF8;;
+	color: #DCEDF8;
+	padding-bottom: 70px;
 }
 
 #pull-quote-3 {
 	padding: 20px;
 	background-color: #DCEDF8;
 	text-align: center;
-	padding-left: 300px;
-	padding-right: 300px;
-	padding-bottom: 50px;
+	padding: 100px 350px;
+	margin: auto;
 	width: 56%;
 }
 
 #pull-quote-3 h4 {
 	color: #2D459D;
+}
+
+#pull-quote-3 h3 {
+	margin-bottom: 70px;
+}
+
+#pull-quote-3 hr {
+	height: 4px;
+	color: #2D459D;
+	width: 100px;
+	margin: auto;
 }
 
 #survey-results {
@@ -330,6 +373,7 @@ header {
 .trial-cta {
 	padding-bottom: 50px;
 	padding-left: 650px;
+	text-transform: uppercase;
 }
 
 .trial-cta a {
@@ -364,6 +408,7 @@ header {
 	letter-spacing: 2px;
 	color: #2D459D;
 	text-decoration: none;
+	text-transform: uppercase;
 	padding: 2em;
 }
 
